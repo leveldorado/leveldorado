@@ -19,7 +19,6 @@ to operate, maintain, and change.
 - Internal business software
 - Backend APIs
 - Business automation
-- AI-powered features
 - Telegram Mini Apps
 - Progressive Web Apps
 
