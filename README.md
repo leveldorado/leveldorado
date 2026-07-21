@@ -1,6 +1,6 @@
 # Hi, I'm Vasyl.
 
-## Product Engineer (Go)
+## Senior Backend Engineer (Go)
 
 I help founders turn ideas into maintainable software.
 
